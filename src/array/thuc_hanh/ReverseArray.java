@@ -1,8 +1,8 @@
-package array;
+package array.thuc_hanh;
 
 import java.util.Scanner;
 
-public class Reverse_Array {
+public class ReverseArray {
     public static void main(String[] args) {
         int[] array;
         int size;
@@ -29,3 +29,4 @@ public class Reverse_Array {
         }
     }
 }
+
