@@ -5,26 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d672797-760d-4f16-b4be-804114b03a88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/bai_tap/AddIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/bai_tap/CombineArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/bai_tap/CountWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/bai_tap/Delete_Index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/bai_tap/FindMaxInArray2d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/bai_tap/FindMinArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/bai_tap/FindSumOfCol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/bai_tap/FindSumOfDiagonalLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/thuc_hanh/Convert_Temperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/thuc_hanh/CountStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/thuc_hanh/Find_Element_In_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/thuc_hanh/Find_Max_Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/bai_tap/ptbac2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/bai_tap/ptbac2/QuadraticEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/bai_tap/stop_watch/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/bai_tap/stop_watch/StopWatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/thuc_hanh/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/thuc_hanh/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5/bai_tap/access_modifier/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5/bai_tap/access_modifier/TestCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5/thuc_hanh/static_method/StaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5/thuc_hanh/static_method/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5/thuc_hanh/static_property/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5/thuc_hanh/static_property/StaticProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_extends/baitap/circle_cylinder/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_extends/baitap/circle_cylinder/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_extends/baitap/circle_cylinder/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_extends/baitap/point2D_point3D/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_extends/baitap/point2D_point3D/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_extends/baitap/point2D_point3D/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_extends/baitap/point_movablepoint/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_extends/baitap/point_movablepoint/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_extends/baitap/point_movablepoint/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_extends/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_extends/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_extends/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_extends/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_extends/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/Reverse_Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/bai_tap/CountWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/bai_tap/CountWords.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,33 +64,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindSumOfDiagonalLine">
-    <configuration name="CombineArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.bai_tap.CombineArray" />
-      <module name="modeul2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.bai_tap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.thuc_hanh.CountStudent" />
-      <module name="modeul2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.thuc_hanh.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ss6_extends.baitap.point_movablepoint.Test">
     <configuration name="CountWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.bai_tap.CountWords" />
       <module name="modeul2" />
@@ -102,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindSumOfCol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.bai_tap.FindSumOfCol" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss6_extends.thuc_hanh.he_cac_doi_tuong_hinh_hoc.Test" />
       <module name="modeul2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.bai_tap.*" />
+          <option name="PATTERN" value="ss6_extends.thuc_hanh.he_cac_doi_tuong_hinh_hoc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +91,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindSumOfDiagonalLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.bai_tap.FindSumOfDiagonalLine" />
+    <configuration name="ss6_extends.baitap.circle_cylinder.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss6_extends.baitap.circle_cylinder.Test" />
       <module name="modeul2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.bai_tap.*" />
+          <option name="PATTERN" value="ss6_extends.baitap.circle_cylinder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ss6_extends.baitap.point2D_point3D.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss6_extends.baitap.point2D_point3D.Test" />
+      <module name="modeul2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss6_extends.baitap.point2D_point3D.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ss6_extends.baitap.point_movablepoint.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss6_extends.baitap.point_movablepoint.Test" />
+      <module name="modeul2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss6_extends.baitap.point_movablepoint.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindSumOfDiagonalLine" />
-        <item itemvalue="Application.CombineArray" />
-        <item itemvalue="Application.FindSumOfCol" />
+        <item itemvalue="Application.ss6_extends.baitap.point_movablepoint.Test" />
+        <item itemvalue="Application.ss6_extends.baitap.point2D_point3D.Test" />
+        <item itemvalue="Application.ss6_extends.baitap.circle_cylinder.Test" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.CountWords" />
-        <item itemvalue="Application.CountStudent" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +159,12 @@
       <workItem from="1692064972566" duration="7559000" />
       <workItem from="1692189288431" duration="4579000" />
       <workItem from="1692276271467" duration="2462000" />
+      <workItem from="1692347418940" duration="1196000" />
+      <workItem from="1692363328764" duration="4968000" />
+      <workItem from="1692617809107" duration="7664000" />
+      <workItem from="1692664686106" duration="5553000" />
+      <workItem from="1692795229852" duration="5358000" />
+      <workItem from="1692960953088" duration="7878000" />
     </task>
     <servers />
   </component>
