@@ -8,6 +8,11 @@ public class Triangle extends Shape{
     Triangle(String color, boolean filled){
         super(color, filled);
     }
+    Triangle(double side1, double side2, double side3){
+        this.side1 = side1;
+        this.side2 = side2;
+        this.side3 = side3;
+    }
     Triangle(double side1, double side2, double side3, String color, boolean filled){
         super(color, filled);
         this.side1 = side1;
@@ -38,10 +43,27 @@ public class Triangle extends Shape{
     public void setSide3(double side3) {
         this.side3 = side3;
     }
+    public  double getPerimeter(){
+        return side1+side2+side3;
+    }
     public double getHalfPerimeter(){
-        return (side1+side2+side3)/2;
+        return getPerimeter()/2;
     }
     public double getHeight(){
-        return 
+        return 2*(Math.sqrt(getHalfPerimeter()*(getHalfPerimeter()-side1)*(getHalfPerimeter()-side2)*(getHalfPerimeter()-side3)))/4;
+    }
+    public double getArea(){
+        return 0.5*getHeight()*side3;
+    }
+
+    @Override
+    public String toString() {
+        return "Triangle{" +
+                "side1=" + side1 +
+                ", side2=" + side2 +
+                ", side3=" + side3 +
+                ", Area="  + getArea() +
+                ", Perimeter=" +getPerimeter() +
+                '}'+super.toString();
     }
 }

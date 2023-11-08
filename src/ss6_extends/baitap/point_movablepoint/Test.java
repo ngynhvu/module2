@@ -5,7 +5,8 @@ public class Test {
         Point p = new Point(2,3);
         System.out.println(p.toString());
         MovablePoint move = new MovablePoint(1,1,2,3);
-        System.out.println(move.move());
+        move.MovablePoint();
+        System.out.println(move.getX());
         Point p1 = new MovablePoint();
         System.out.println(p1.toString());
         p.setX(3);

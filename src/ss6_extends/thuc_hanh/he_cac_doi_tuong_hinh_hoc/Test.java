@@ -14,14 +14,20 @@ public class Test {
 //        circle = new Circle(3.5, "indigo", false);
 //        System.out.println(circle);
 //        circle.setColor("yellow");
-//        System.out.println(circle.getColor());
-        Rectangle rectangle = new Rectangle();
-        System.out.println(rectangle);
+////        System.out.println(circle.getColor());
+//        Rectangle rectangle = new Rectangle();
+//        System.out.println(rectangle);
+//
+//        rectangle = new Rectangle(2.3, 5.8);
+//        System.out.println(rectangle);
+//
+//        rectangle = new Rectangle(2.5, 3.8, "orange", true);
+//        System.out.println(rectangle);
+        Triangle triangle = new Triangle(2, 4, 6, "red", true);
+        System.out.println(triangle.toString());
+        System.out.println(triangle.getArea());
+        Triangle triangle1 = new Triangle(1, 2, 3);
+        System.out.println(triangle1.getArea());
 
-        rectangle = new Rectangle(2.3, 5.8);
-        System.out.println(rectangle);
-
-        rectangle = new Rectangle(2.5, 3.8, "orange", true);
-        System.out.println(rectangle);
     }
 }

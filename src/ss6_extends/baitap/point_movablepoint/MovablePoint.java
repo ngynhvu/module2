@@ -42,9 +42,8 @@ public class MovablePoint extends Point {
                 ", y=" + y +
                 '}';
     }
-    public MovablePoint move(){
+    public void MovablePoint(){
         x += xSpeed;
         y += ySpeed;
-        return this;
     }
 }

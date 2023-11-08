@@ -24,7 +24,9 @@ public class Shape {
     public void setFilled(boolean filled) {
         this.filled = filled;
     }
-
+    public double getArea(){
+        return 20.0;
+    }
     @Override
     public String toString() {
         return "Shape{" +

@@ -5,28 +5,143 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d672797-760d-4f16-b4be-804114b03a88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss5/bai_tap/access_modifier/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss5/bai_tap/access_modifier/TestCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss5/thuc_hanh/static_method/StaticMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss5/thuc_hanh/static_method/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss5/thuc_hanh/static_property/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss5/thuc_hanh/static_property/StaticProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_extends/baitap/circle_cylinder/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_extends/baitap/circle_cylinder/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_extends/baitap/circle_cylinder/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_extends/baitap/point2D_point3D/Point2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_extends/baitap/point2D_point3D/Point3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_extends/baitap/point2D_point3D/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_extends/baitap/point_movablepoint/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_extends/baitap/point_movablepoint/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_extends/baitap/point_movablepoint/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_extends/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_extends/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_extends/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_extends/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_extends/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examination/controller/BenhNhanController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examination/file/VCS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examination/model/BenhNhan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examination/model/BenhNhanVIP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examination/repository/normal/BenhNhanRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examination/repository/normal/IBenhNhanRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examination/repository/vip/BenhNhanVIPRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examination/repository/vip/IBenhNhanVIPRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examination/service/normal/BenhNhanService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examination/service/normal/IBenhNhanService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examination/service/read_file/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examination/service/vip/BenhNhanVIPService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examination/service/vip/IBenhNhanVIPService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examination/view/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/mvc1/model/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/mvc1/model/Marketing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/mvc1/model/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/mvc1/repository/company_salary/CompanySalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/mvc1/repository/company_salary/ICompanySalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/mvc1/repository/manager/IManagerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/mvc1/repository/manager/ManagerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/mvc1/repository/marketing/IMarketingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/mvc1/repository/marketing/MarketingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/mvc1/repository/staff/IStaffRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/mvc1/repository/staff/StaffRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/mvc1/service/manager/IManagerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/mvc1/service/manager/ManagerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/mvc1/service/marketing/IMarketingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/mvc1/service/marketing/MarketingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/mvc1/service/staff/IStaffService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/mvc1/service/staff/StaffService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_array_list/bai_tap/trien_khai_arraylist/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_array_list/bai_tap/trien_khai_arraylist/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_array_list/bai_tap/trien_khai_linkedlist/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_array_list/bai_tap/trien_khai_linkedlist/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_array_list/thuc_hanh/simple_list/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/counting/Counting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/reverse/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/reverse/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/thuc_hanh/queue/MyLinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/thuc_hanh/queue/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/thuc_hanh/stack/GenericStackClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/thuc_hanh/stack/MyGenericStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/ReverseByStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/hashmap_linkedhashmap_treemap/TestMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss13_thuat_toan_tim_kiem/bai_tap/bai1/FindMaxString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss13_thuat_toan_tim_kiem/bai_tap/bai2/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss13_thuat_toan_tim_kiem/thuc_hanh/bai1/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss14_exception_debug/bai_tap/IllegalTriangleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss14_exception_debug/bai_tap/MyTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss14_exception_debug/thuc_hanh/ArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss14_exception_debug/thuc_hanh/CalculationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss14_exception_debug/thuc_hanh/LinearEquationResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss16_io_textfile/bai_tap/copy_file/CopyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss16_io_textfile/bai_tap/copy_file/Target.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss16_io_textfile/bai_tap/read_file/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss16_io_textfile/thuc_hanh/ReadAndWriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss16_io_textfile/thuc_hanh/SumFileText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_IO/bai_tap/qlsp/data/product.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_IO/bai_tap/qlsp/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_IO/bai_tap/qlsp/repository/IProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_IO/bai_tap/qlsp/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_IO/bai_tap/qlsp/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_IO/bai_tap/qlsp/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_IO/thuc_hanh/copy_binary_file/CopyBinaryFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_IO/thuc_hanh/copy_object_to_file/CopyObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_IO/thuc_hanh/copy_object_to_file/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_case_study/controller/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_case_study/data/vehicle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_case_study/model/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_case_study/model/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_case_study/model/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_case_study/model/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_case_study/regex/Regex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_case_study/repository/car/CarRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_case_study/repository/car/ICarRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_case_study/repository/motorcycle/IMotorcycleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_case_study/repository/motorcycle/MotorcycleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_case_study/repository/truck/ITruckRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_case_study/repository/truck/TruckRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_case_study/service/car/CarService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_case_study/service/car/ICarService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_case_study/service/motorcycle/IMotorcylceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_case_study/service/motorcycle/MotorcycleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_case_study/service/truck/ITruckService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_case_study/service/truck/TruckService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss4_class_object/bai_tap/fan/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss4_class_object/bai_tap/fan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss4_class_object/bai_tap/stop_watch/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss4_class_object/bai_tap/stop_watch/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/bai_tap/interface_colorable/Colorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/bai_tap/interface_colorable/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/bai_tap/interface_colorable/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/bai_tap/interface_resizeable/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/bai_tap/interface_resizeable/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/bai_tap/interface_resizeable/Resizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/bai_tap/interface_resizeable/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/thuc_hanh/animal_interfaceEdible/AbstractAndInterfaceTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/thuc_hanh/animal_interfaceEdible/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/thuc_hanh/animal_interfaceEdible/animal/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/thuc_hanh/animal_interfaceEdible/animal/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/thuc_hanh/animal_interfaceEdible/edible/Edible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/thuc_hanh/animal_interfaceEdible/fruit/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/thuc_hanh/animal_interfaceEdible/fruit/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/thuc_hanh/animal_interfaceEdible/fruit/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/thuc_hanh/interface_comparable/ComparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/thuc_hanh/interface_comparable/ComparableCircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/thuc_hanh/interface_comparator/CircleComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/thuc_hanh/interface_comparator/CircleComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_MVC/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_MVC/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_MVC/respository/IProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_MVC/respository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_MVC/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_MVC/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_MVC/view/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thi_lai/controller/BankController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thi_lai/file/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thi_lai/file/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thi_lai/model/TaiKhoanNganHang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thi_lai/model/TaiKhoanThanhToan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thi_lai/model/TaiKhoanTietKiem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thi_lai/repository/tai_khoan_thanh_toan/ITaiKhoanThanhToanRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thi_lai/repository/tai_khoan_thanh_toan/TaiKhoanThanhToanRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thi_lai/repository/tai_khoan_tiet_kiem/ITaiKhoanTietKiemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thi_lai/repository/tai_khoan_tiet_kiem/TaiKhoanTietKiemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thi_lai/service/tai_khoan_thanh_toan/ITaiKhoanThanhToanService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thi_lai/service/tai_khoan_thanh_toan/TaiKhoanThanhToanService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thi_lai/service/tai_khoan_tiet_kiem/ITaiKhoanTietKiemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thi_lai/service/tai_khoan_tiet_kiem/TaiKhoanTietKiemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thi_lai/view/View.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/bai_tap/CountWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/bai_tap/CountWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss6_extends/baitap/point_movablepoint/MovablePoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss6_extends/baitap/point_movablepoint/MovablePoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss6_extends/baitap/point_movablepoint/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss6_extends/baitap/point_movablepoint/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss6_extends/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss6_extends/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss6_extends/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss6_extends/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss6_extends/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss6_extends/thuc_hanh/he_cac_doi_tuong_hinh_hoc/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +151,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -61,16 +177,52 @@
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ss6_extends.baitap.point_movablepoint.Test">
-    <configuration name="CountWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.bai_tap.CountWords" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ss17_IO.bai_tap.qlsp.model" />
+      <recent name="ss14_exception_debug.thuc_hanh" />
+      <recent name="ss11_stack_queue.bai_tap.counting" />
+      <recent name="practice.mvc1.repository.staff" />
+      <recent name="ss10_array_list.bai_tap.trien_khai_arraylist" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ReadFile">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss4_class_object.bai_tap.fan.Main" />
       <module name="modeul2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.bai_tap.*" />
+          <option name="PATTERN" value="ss4_class_object.bai_tap.fan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss16_io_textfile.bai_tap.read_file.ReadFile" />
+      <module name="modeul2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss16_io_textfile.bai_tap.read_file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss4_class_object.bai_tap.stop_watch.SelectionSort" />
+      <module name="modeul2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss4_class_object.bai_tap.stop_watch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,45 +231,6 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss6_extends.thuc_hanh.he_cac_doi_tuong_hinh_hoc.Test" />
-      <module name="modeul2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss6_extends.thuc_hanh.he_cac_doi_tuong_hinh_hoc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ss6_extends.baitap.circle_cylinder.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss6_extends.baitap.circle_cylinder.Test" />
-      <module name="modeul2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss6_extends.baitap.circle_cylinder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ss6_extends.baitap.point2D_point3D.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss6_extends.baitap.point2D_point3D.Test" />
-      <module name="modeul2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss6_extends.baitap.point2D_point3D.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ss6_extends.baitap.point_movablepoint.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss6_extends.baitap.point_movablepoint.Test" />
       <module name="modeul2" />
       <extension name="coverage">
@@ -130,13 +243,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="thi_lai.view.View" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thi_lai.view.View" />
+      <module name="modeul2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thi_lai.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ss6_extends.baitap.point_movablepoint.Test" />
-        <item itemvalue="Application.ss6_extends.baitap.point2D_point3D.Test" />
-        <item itemvalue="Application.ss6_extends.baitap.circle_cylinder.Test" />
+        <item itemvalue="Application.ReadFile" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.CountWords" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.thi_lai.view.View" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +290,45 @@
       <workItem from="1692617809107" duration="7664000" />
       <workItem from="1692664686106" duration="5553000" />
       <workItem from="1692795229852" duration="5358000" />
-      <workItem from="1692960953088" duration="7878000" />
+      <workItem from="1692960953088" duration="11001000" />
+      <workItem from="1693226921446" duration="5505000" />
+      <workItem from="1693318704613" duration="8105000" />
+      <workItem from="1693400763037" duration="3537000" />
+      <workItem from="1693409625128" duration="3905000" />
+      <workItem from="1693997135959" duration="11812000" />
+      <workItem from="1694088279961" duration="2596000" />
+      <workItem from="1694177718655" duration="4706000" />
+      <workItem from="1694187984696" duration="3230000" />
+      <workItem from="1694437934726" duration="3376000" />
+      <workItem from="1694523297822" duration="4073000" />
+      <workItem from="1694540615333" duration="2164000" />
+      <workItem from="1694593948993" duration="1076000" />
+      <workItem from="1694601071332" duration="12193000" />
+      <workItem from="1694697119302" duration="4955000" />
+      <workItem from="1694781336526" duration="6511000" />
+      <workItem from="1694964241826" duration="1563000" />
+      <workItem from="1695041651715" duration="5402000" />
+      <workItem from="1695207426295" duration="8124000" />
+      <workItem from="1695387984126" duration="4268000" />
+      <workItem from="1695395592340" duration="403000" />
+      <workItem from="1695812839083" duration="9673000" />
+      <workItem from="1696247782846" duration="8396000" />
+      <workItem from="1696417815941" duration="10626000" />
+      <workItem from="1696850350445" duration="7656000" />
+      <workItem from="1696955521300" duration="1386000" />
+      <workItem from="1697086009142" duration="6578000" />
+      <workItem from="1697200667048" duration="7473000" />
+      <workItem from="1697259466534" duration="3794000" />
+      <workItem from="1697374007837" duration="6393000" />
+      <workItem from="1697627763777" duration="7012000" />
+      <workItem from="1697690840650" duration="7663000" />
+      <workItem from="1698063458237" duration="8166000" />
+      <workItem from="1698234488267" duration="8570000" />
+      <workItem from="1698670284044" duration="5191000" />
+      <workItem from="1698837204802" duration="2284000" />
+      <workItem from="1699249557542" duration="1534000" />
+      <workItem from="1699254101300" duration="837000" />
+      <workItem from="1699447754576" duration="1196000" />
     </task>
     <servers />
   </component>
@@ -189,6 +353,37 @@
           <url>file://$PROJECT_DIR$/src/loop/Great_Common_Factor.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ss13_thuat_toan_tim_kiem/bai_tap/bai1/FindMaxString.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ss13_thuat_toan_tim_kiem/thuc_hanh/bai1/BinarySearch.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ss14_exception_debug/thuc_hanh/LinearEquationResolver.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="a!=0" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/ss14_exception_debug/thuc_hanh/LinearEquationResolver.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ss14_exception_debug/bai_tap/MyTriangle.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ss16_io_textfile/thuc_hanh/SumFileText.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
